@@ -24,6 +24,13 @@
     <dependencyManagement>
         <dependencies>
             <dependency>
+               <groupId>org.webjars.npm</groupId>
+               <artifactId>googlemaps__js-api-loader</artifactId>
+               <version>1.16.8</version>
+            </dependency> 
+
+
+            <dependency>
                 <groupId>org.junit</groupId>
                 <artifactId>junit-bom</artifactId>
                 <version>5.11.0</version>
